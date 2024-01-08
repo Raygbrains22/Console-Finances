@@ -149,3 +149,4 @@ function greatestDecrease(finances) {
 
 console.log("Financial Analysis");
 console.log("----------------");
+console.log("Total Months: " + calculateTotalMonths(finances));
