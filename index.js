@@ -151,3 +151,4 @@ console.log("Financial Analysis");
 console.log("----------------");
 console.log("Total Months: " + calculateTotalMonths(finances));
 console.log("Total: $" + calculateNetTotal(finances));
+console.log("Average Change: $" + calculateAverageChanges(finances));
