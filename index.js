@@ -146,3 +146,6 @@ function greatestDecrease(finances) {
     }
     return {greatestDecrease, month};
 };
+
+console.log("Financial Analysis");
+console.log("----------------");
