@@ -152,3 +152,4 @@ console.log("----------------");
 console.log("Total Months: " + calculateTotalMonths(finances));
 console.log("Total: $" + calculateNetTotal(finances));
 console.log("Average Change: $" + calculateAverageChanges(finances));
+console.log("Greatest Increase in Profits/Losses: " + greatestIncrease(finances).greatestIncrease + " (" + greatestIncrease(finances).month + ")");
